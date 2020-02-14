@@ -1,0 +1,14 @@
+User-agent:*
+User-agent: Googlebot
+
+Disallow: /cgi-bin/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /images/
+Disallow: /javascripts/
+Disallow: /stylesheets/
+Disallow: /journey-26-2-19.zip/
+Disallow: /admin_area.zip/
+
+
+Sitemap: http://www.journeywheels.in/sitemap.xml
